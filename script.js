@@ -16,15 +16,15 @@ var infos = {
     "phone": {
         "text": [
             "<h1>Телефон</h1>",
-            "<h3>Poco M4 Pro 4G</h3>",
+            "<h3>Huawei mate 50 pro</h3>",
             "<p>Основной смартфон для связи и соцсетей</p>"
         ]
     },
     "oldphone": {
         "text": [
             "<h1>Старый телефон</h1>",
-            "<h3>Honor 10 Lite</h3>",
-            "<p>Помянем... не включается.</p>"
+            "<h3>Poco m4 pro</h3>",
+            "<p>Теперь второй телефон</p>"
         ]
     },
     "nas": {
@@ -44,17 +44,17 @@ var infos = {
     "youtube": {
         "text": [
             "<h1>YouTube</h1>",
-            "<h3>Канал: @Tele-tpm</h3>",
-            "<p>41 подписчик, 50 видео</p>",
-            "<p><a href='https://www.youtube.com/@Tele-tpm' target='_blank'>Перейти на канал</a></p>"
+            "<h3>Канал: N/A/h3>",
+            "<p>N/A подписчик, N/A видео</p>",
+            "<p><a href='https://www.youtube.com/@N/A-' target='_blank'>Перейти на канал</a></p>"
         ]
     },
     "tiktok": {
         "text": [
             "<h1>TikTok</h1>",
-            "<h3>Аккаунт: @teletpmy</h3>",
-            "<p>58 подписчиков, 1804 лайка</p>",
-            "<p><a href='https://tiktok.com/@teletpmy' target='_blank'>Перейти в TikTok</a></p>"
+            "<h3>Аккаунт: @N/A</h3>",
+            "<p>N/A подписчиков, N/A лайка</p>",
+            "<p><a href='https://tiktok.com/@t4кцйкцй' target='_blank'>Перейти в TikTok</a></p>"
         ]
     }
 };
